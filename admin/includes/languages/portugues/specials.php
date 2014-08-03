@@ -1,0 +1,33 @@
+<?php
+define('HEADING_TITLE','Promoção');
+define('SPECIALS_ENHANCED_FILTER','Filtro');
+define('SPECIALS_ENHANCED_NAME','Nome:');
+define('SPECIALS_ENHANCED_CATEGORIES','&raquo; Todas as categorias');
+define('SPECIALS_ENHANCED_MANUFACTURERS','&raquo; Todos os Fabricantes');
+define('SPECIALS_ENHANCED_INCLUDE_SUBCATEGORIES','Incluir subCategorias');
+define('SPECIALS_ENHANCED_ONLY_SPECIALS','Só promoções');
+define('SPECIALS_ENHANCED_LIST','Lista');
+define('SPECIALS_ENHANCED_DISCOUNT','Desconto (Valor ou %):');
+define('SPECIALS_ENHANCED_DATE','Data (dd/mm/yyyy):');
+define('SPECIALS_ENHANCED_APPLY_DISCOUNT','Aplicar desconto');
+define('SPECIALS_ENHANCED_ACTIVATE_ALL','Ativar tudo');
+define('SPECIALS_ENHANCED_DEACTIVATE_ALL','Desativado tudo');
+define('SPECIALS_ENHANCED_REMOVE_ALL','Remover tudo');
+define('SPECIALS_ENHANCED_TH_MODEL','Número do modelo');
+define('SPECIALS_ENHANCED_TH_PRODUCTS','Nome do Produto');
+define('SPECIALS_ENHANCED_TH_PRICE','Preço');
+define('SPECIALS_ENHANCED_TH_NET','Net');
+define('SPECIALS_ENHANCED_TH_GROSS','Gross');
+define('SPECIALS_ENHANCED_TH_DISCOUNTED_PRICE','Preço descontado');
+define('SPECIALS_ENHANCED_TH_DISCOUNT_PERCENT','Desconto %');
+define('SPECIALS_ENHANCED_TH_DATE','Data (dd/mm/yyyy)');
+define('SPECIALS_ENHANCED_TH_STATUS','Status');
+define('SPECIALS_ENHANCED_TH_ACTIONS','Ações');
+define('SPECIALS_ENHANCED_ASC','Acendente');
+define('SPECIALS_ENHANCED_DESC','Descrescente');
+define('SPECIALS_ENHANCED_ORDERING','Ordernar');
+define('SPECIALS_ENHANCED_UPDATE','Atualizar');
+define('SPECIALS_ENHANCED_REMOVE','Deletar');
+define('SPECIALS_ENHANCED_REMOVE_CONFIRM','Você tem certeza que deseja remover esta promoção?');
+define('SPECIALS_ENHANCED_GENERAL_CONFIRM','Você tem certeza?');
+?>

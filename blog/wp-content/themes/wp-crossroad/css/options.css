@@ -1,0 +1,42 @@
+
+body, .body-class {
+	background: url(http://www.mudominhacasa.com.br/blog/wp-content/themes/wp-crossroad/img/bg/bg01.jpg) left top repeat;
+}
+
+#top-block-bg, #bottom-block-bg { background:#4C4C4C;}
+#mainmenu-block-bg, #bottommenu-block-bg { background:#2F2F2F;}
+
+
+
+a { color: #cc6e6e; }
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+border-color: #cc6e6e;
+}
+
+/* Theme Color */
+.colored-bg, .sf-menu ul > li:hover { background: #cc6e6e; }
+#social-counter .c-icon { background-color: #cc6e6e; }
+.colored-border { border-top-color: #cc6e6e; }
+.colored { color: #cc6e6e; }
+.sf-menu li .sf-sub-indicator { border-color: transparent transparent #cc6e6e transparent; }
+.widget .tagcloud a[class|=tag-link]:hover, .widget a[rel=tag]:hover, #entry-post a[rel=tag]:hover { background-color: #cc6e6e; }
+
+
+/* Links Color */
+.widget .category-title a:hover,
+#pbd-alp-load-posts a:hover, #pbd-alp-load-posts a:active,
+.widget li.cat-item a:hover, .left-col a:hover, .right-col a:hover,
+#social-counter li:hover .social,
+.copyright a:hover, .add-info a:hover,
+.meta-comments a:hover, ul.popular-post-widget .meta-comments a:hover,
+.two-column-widget .post-title a:hover,
+ul.popular-post-widget .comments a:hover,
+.pagination a:hover, .pagination span.current { color: #cc6e6e; }
+
+
+
+
+::selection { 	background-color: #cc6e6e !important; color: #fff	 }
+
+::-moz-selection { 	background-color: #cc6e6e !important;	 }
+

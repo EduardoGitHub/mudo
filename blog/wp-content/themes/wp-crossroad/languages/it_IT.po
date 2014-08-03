@@ -1,0 +1,1557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CrossRoad - Responsive WordPress Blog Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-21 16:55:50+0000\n"
+"Last-Translator: admin <zerge.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:11
+#@ color-theme-framework
+msgid "404 Error"
+msgstr "404 Error"
+
+#: admin/classes/class.options_machine.php:456
+#@ color-theme-framework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:42
+#: admin/front-end/options.php:66
+#@ color-theme-framework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:67
+#@ color-theme-framework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ color-theme-framework
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/functions/functions.options.php:135
+#@ color-theme-framework
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:153
+#@ color-theme-framework
+msgid "Sticky main menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:154
+#@ color-theme-framework
+msgid "Stick main menu to the top"
+msgstr ""
+
+#: admin/functions/functions.options.php:160
+#@ color-theme-framework
+msgid "Use built in SEO functionality"
+msgstr ""
+
+#: admin/functions/functions.options.php:161
+#@ color-theme-framework
+msgid "Custon meta tags, title, description"
+msgstr ""
+
+#: admin/functions/functions.options.php:167
+#@ color-theme-framework
+msgid "Type of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:168
+#@ color-theme-framework
+msgid "Select your logo type ( Image or Text )"
+msgstr ""
+
+#: admin/functions/functions.options.php:175
+#@ color-theme-framework
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:176
+#: admin/functions/functions.options.php:496
+#@ color-theme-framework
+msgid "Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:181
+#@ color-theme-framework
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:182
+#@ color-theme-framework
+msgid "Enter text for logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:187
+#@ color-theme-framework
+msgid "Logo Slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:188
+#@ color-theme-framework
+msgid "Enter text for logo slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:193
+#@ color-theme-framework
+msgid "Show/Hide Top Social Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:200
+#@ color-theme-framework
+msgid "Youtube"
+msgstr ""
+
+#: admin/functions/functions.options.php:201
+#@ color-theme-framework
+msgid "Enter Youtube url"
+msgstr ""
+
+#: admin/functions/functions.options.php:206
+#@ color-theme-framework
+msgid "Vimeo"
+msgstr ""
+
+#: admin/functions/functions.options.php:207
+#@ color-theme-framework
+msgid "Enter Vimeo url"
+msgstr ""
+
+#: admin/functions/functions.options.php:212
+#@ color-theme-framework
+msgid "Tumblr"
+msgstr ""
+
+#: admin/functions/functions.options.php:213
+#@ color-theme-framework
+msgid "Enter Tumblr url"
+msgstr ""
+
+#: admin/functions/functions.options.php:218
+#@ color-theme-framework
+msgid "Pinterest"
+msgstr ""
+
+#: admin/functions/functions.options.php:219
+#@ color-theme-framework
+msgid "Enter Pinterest url"
+msgstr ""
+
+#: admin/functions/functions.options.php:224
+#@ color-theme-framework
+msgid "Dribbble"
+msgstr ""
+
+#: admin/functions/functions.options.php:225
+#@ color-theme-framework
+msgid "Enter Dribbble url"
+msgstr ""
+
+#: admin/functions/functions.options.php:230
+#@ color-theme-framework
+msgid "Google"
+msgstr ""
+
+#: admin/functions/functions.options.php:231
+#@ color-theme-framework
+msgid "Enter Google url"
+msgstr ""
+
+#: admin/functions/functions.options.php:236
+#@ color-theme-framework
+msgid "Facebook"
+msgstr ""
+
+#: admin/functions/functions.options.php:237
+#@ color-theme-framework
+msgid "Enter Facebook url"
+msgstr ""
+
+#: admin/functions/functions.options.php:242
+#@ color-theme-framework
+msgid "Twitter"
+msgstr ""
+
+#: admin/functions/functions.options.php:243
+#@ color-theme-framework
+msgid "Enter Twitter url"
+msgstr ""
+
+#: admin/functions/functions.options.php:248
+#@ color-theme-framework
+msgid "RSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:249
+#@ color-theme-framework
+msgid "Enter RSS url"
+msgstr ""
+
+#: admin/functions/functions.options.php:254
+#@ color-theme-framework
+msgid "Show Search Block In Top"
+msgstr ""
+
+#: admin/functions/functions.options.php:255
+#@ color-theme-framework
+msgid "Show/Hide Search block"
+msgstr ""
+
+#: admin/functions/functions.options.php:261
+#@ color-theme-framework
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:262
+#@ color-theme-framework
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:267
+#@ color-theme-framework
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:268
+#@ color-theme-framework
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:283
+#@ color-theme-framework
+msgid "Scheme Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:284
+#@ color-theme-framework
+msgid "Pick a color scheme (default: #E64946)"
+msgstr ""
+
+#: admin/functions/functions.options.php:289
+#@ color-theme-framework
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:290
+#@ color-theme-framework
+msgid "Pick a background color (default: #f7ede4)."
+msgstr ""
+
+#: admin/functions/functions.options.php:295
+#@ color-theme-framework
+msgid "Links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:296
+#@ color-theme-framework
+msgid "Pick a color for the links (default: #E64946)"
+msgstr ""
+
+#: admin/functions/functions.options.php:301
+#@ color-theme-framework
+msgid "Header & footer background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:302
+#@ color-theme-framework
+msgid "Pick a background color (default: #4C4C4C)."
+msgstr ""
+
+#: admin/functions/functions.options.php:307
+#@ color-theme-framework
+msgid "Menu background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:308
+#@ color-theme-framework
+msgid "Pick a background color (default: #2F2F2F)."
+msgstr ""
+
+#: admin/functions/functions.options.php:313
+#@ color-theme-framework
+msgid "Use Background Image / BG Color / Upload Your Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:314
+#@ color-theme-framework
+msgid "Select the type of usage background"
+msgstr ""
+
+#: admin/functions/functions.options.php:320
+#@ color-theme-framework
+msgid "Background Attachment "
+msgstr ""
+
+#: admin/functions/functions.options.php:321
+#@ color-theme-framework
+msgid "Select the background image property"
+msgstr ""
+
+#: admin/functions/functions.options.php:327
+#@ color-theme-framework
+msgid "Image Upload For background"
+msgstr ""
+
+#: admin/functions/functions.options.php:328
+#@ color-theme-framework
+msgid "Upload images for background using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:334
+#@ color-theme-framework
+msgid "Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:335
+#@ color-theme-framework
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:342
+#@ color-theme-framework
+msgid "Border top on widgets (black 5px border)"
+msgstr ""
+
+#: admin/functions/functions.options.php:343
+#@ color-theme-framework
+msgid "Show or Hide black 5px border"
+msgstr ""
+
+#: admin/functions/functions.options.php:349
+#@ color-theme-framework
+msgid "Google Fonts Link Stylesheet"
+msgstr ""
+
+#: admin/functions/functions.options.php:350
+#@ color-theme-framework
+msgid "Paste code for stylesheet from Google Fonts"
+msgstr ""
+
+#: admin/functions/functions.options.php:355
+#@ color-theme-framework
+msgid "Google Fonts Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+#@ color-theme-framework
+msgid "Paste code for Fonts from Google"
+msgstr ""
+
+#: admin/functions/functions.options.php:369
+#@ color-theme-framework
+msgid "Blog Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:372
+#@ color-theme-framework
+msgid "Select a layout for Single post template"
+msgstr ""
+
+#: admin/functions/functions.options.php:386
+#@ color-theme-framework
+msgid "Select a layout for Blog template"
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+#@ color-theme-framework
+msgid "Select a layout for Category template"
+msgstr ""
+
+#: admin/functions/functions.options.php:415
+#: admin/functions/functions.options.php:467
+#@ color-theme-framework
+msgid "Show/Hide blog and category meta"
+msgstr ""
+
+#: admin/functions/functions.options.php:422
+#@ color-theme-framework
+msgid "Thumb type for video posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:423
+#@ color-theme-framework
+msgid "Select a thumb type for video posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:430
+#@ color-theme-framework
+msgid "Use Excerpt or Content Function?"
+msgstr ""
+
+#: admin/functions/functions.options.php:431
+#@ color-theme-framework
+msgid "Select a Excerpt (automatically) or Content (More tag)"
+msgstr ""
+
+#: admin/functions/functions.options.php:438
+#@ color-theme-framework
+msgid "Featured image"
+msgstr ""
+
+#: admin/functions/functions.options.php:439
+#@ color-theme-framework
+msgid "Show or Hide featured image in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:445
+#@ color-theme-framework
+msgid "Stretch thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:446
+#@ color-theme-framework
+msgid "Stretch or Not thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:452
+#@ color-theme-framework
+msgid "Code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:453
+#@ color-theme-framework
+msgid "Paste code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:459
+#@ color-theme-framework
+msgid "Choose the comments type"
+msgstr ""
+
+#: admin/functions/functions.options.php:474
+#@ color-theme-framework
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:475
+#@ color-theme-framework
+msgid "Enter the Facebook App ID of your app (required if Facebook comments type selected)"
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+#@ color-theme-framework
+msgid "Disqus shortname "
+msgstr ""
+
+#: admin/functions/functions.options.php:481
+#@ color-theme-framework
+msgid "Enter the your website's shortname (required if Disqus comments type selected)"
+msgstr ""
+
+#: admin/functions/functions.options.php:492
+#@ color-theme-framework
+msgid "Ads Banner Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:495
+#@ color-theme-framework
+msgid "Site Header Banner Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:501
+#@ color-theme-framework
+msgid "Site Header Banner URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:502
+#@ color-theme-framework
+msgid "Enter clickthrough url for banner in top section"
+msgstr ""
+
+#: admin/functions/functions.options.php:507
+#@ color-theme-framework
+msgid "Site Header Ads\\Banner Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:508
+#@ color-theme-framework
+msgid "Paste your Google Adsense (or other) code here."
+msgstr ""
+
+#: admin/functions/functions.options.php:518
+#: admin/functions/functions.options.php:521
+#@ color-theme-framework
+msgid "Copyrights"
+msgstr ""
+
+#: admin/functions/functions.options.php:522
+#@ color-theme-framework
+msgid "Enter your copyrights"
+msgstr ""
+
+#: admin/functions/functions.options.php:527
+#@ color-theme-framework
+msgid "Additional info"
+msgstr ""
+
+#: admin/functions/functions.options.php:528
+#@ color-theme-framework
+msgid "Additional info (text or banner)"
+msgstr ""
+
+#: admin/functions/functions.options.php:536
+#@ color-theme-framework
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:539
+#@ color-theme-framework
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:546
+#@ color-theme-framework
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: comments.php:8
+#@ color-theme-framework
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+#: functions/crossroad-1-column-magazine-widget.php:172
+#: functions/crossroad-1-column-magazine-widget.php:219
+#: functions/crossroad-2-columns-magazine-widget.php:102
+#: functions/crossroad-2-columns-magazine-widget.php:146
+#: functions/crossroad-2-columns-magazine-widget.php:194
+#: functions/crossroad-2-columns-magazine-widget.php:239
+#@ color-theme-framework
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18
+#: functions/crossroad-1-column-magazine-widget.php:172
+#: functions/crossroad-1-column-magazine-widget.php:219
+#: functions/crossroad-2-columns-magazine-widget.php:102
+#: functions/crossroad-2-columns-magazine-widget.php:146
+#: functions/crossroad-2-columns-magazine-widget.php:194
+#: functions/crossroad-2-columns-magazine-widget.php:239
+#@ color-theme-framework
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:28
+#@ color-theme-framework
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:41
+#@ color-theme-framework
+msgid "You must be"
+msgstr ""
+
+#: comments.php:41
+#@ color-theme-framework
+msgid "logged in"
+msgstr ""
+
+#: comments.php:41
+#@ color-theme-framework
+msgid "to post a comment."
+msgstr ""
+
+#: content-archive.php:53
+#, php-format
+#@ color-theme-framework
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: content-archive.php:55
+#, php-format
+#@ color-theme-framework
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: content-archive.php:55
+#@ color-theme-framework
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: content-archive.php:57
+#, php-format
+#@ color-theme-framework
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: content-archive.php:57
+#@ color-theme-framework
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: content-archive.php:59
+#@ color-theme-framework
+msgid "Blog Archives"
+msgstr ""
+
+#: content-archive.php:75
+#: content-category.php:70
+#: content-search.php:65
+#: content-single.php:33
+#: content-tag.php:65
+#: functions/crossroad-1-column-magazine-widget.php:71
+#: functions/crossroad-2-columns-magazine-widget.php:84
+#: functions/crossroad-2-columns-magazine-widget.php:175
+#: functions/crossroad-blog-widget.php:131
+#: functions/crossroad-carousel-widget.php:157
+#: functions/crossroad-recent-posts-widget.php:126
+#: functions/crossroad-slider-widget.php:193
+#@ color-theme-framework
+msgid "View all posts in "
+msgstr ""
+
+#: content-archive.php:94
+#: content-category.php:89
+#: content-search.php:84
+#: content-tag.php:84
+#: functions/crossroad-blog-widget.php:151
+#, php-format
+#@ color-theme-framework
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-archive.php:100
+#: content-archive.php:104
+#: content-category.php:95
+#: content-category.php:99
+#: content-search.php:90
+#: content-search.php:94
+#: content-tag.php:90
+#: content-tag.php:94
+#: functions/crossroad-blog-widget.php:157
+#: functions/crossroad-blog-widget.php:161
+#@ color-theme-framework
+msgid "Read More"
+msgstr ""
+
+#: content-archive.php:153
+#: content-category.php:148
+#: content-search.php:143
+#: content-tag.php:143
+#: functions/crossroad-1-column-magazine-widget.php:112
+#: functions/crossroad-blog-widget.php:209
+#: functions/crossroad-carousel-widget.php:138
+#: functions/crossroad-slider-widget.php:174
+#@ color-theme-framework
+msgid "Watch Youtube Video"
+msgstr ""
+
+#: content-archive.php:175
+#: content-category.php:170
+#: content-search.php:165
+#: content-tag.php:165
+#: functions/crossroad-1-column-magazine-widget.php:134
+#: functions/crossroad-blog-widget.php:231
+#: functions/crossroad-carousel-widget.php:141
+#: functions/crossroad-slider-widget.php:177
+#@ color-theme-framework
+msgid "Watch Vimeo Video"
+msgstr ""
+
+#: content-archive.php:195
+#: content-category.php:190
+#: content-search.php:185
+#: content-tag.php:185
+#: functions/crossroad-1-column-magazine-widget.php:154
+#: functions/crossroad-blog-widget.php:251
+#: functions/crossroad-carousel-widget.php:144
+#: functions/crossroad-slider-widget.php:180
+#@ color-theme-framework
+msgid "Watch DailyMotion Video"
+msgstr ""
+
+#: content-category.php:52
+#: content-category.php:54
+#@ color-theme-framework
+msgid "Posts by Category: "
+msgstr ""
+
+#: content-search.php:51
+#@ color-theme-framework
+msgid "Search Results for"
+msgstr ""
+
+#: content-single.php:200
+#@ color-theme-framework
+msgid "Share Article: "
+msgstr ""
+
+#: content-tag.php:51
+#, php-format
+#@ color-theme-framework
+msgid "Posts by tag: %s"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:40
+#@ color-theme-framework
+msgid "1 Column Horizontal Magazine Widget (show recent posts)."
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:46
+#@ color-theme-framework
+msgid "CrossRoad: 1 Column Magazine Widget"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:172
+#: functions/crossroad-1-column-magazine-widget.php:219
+#: functions/crossroad-2-columns-magazine-widget.php:102
+#: functions/crossroad-2-columns-magazine-widget.php:146
+#: functions/crossroad-2-columns-magazine-widget.php:194
+#: functions/crossroad-2-columns-magazine-widget.php:239
+#@ color-theme-framework
+msgid "No Comments"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:176
+#: functions/crossroad-1-column-magazine-widget.php:202
+#: functions/crossroad-1-column-magazine-widget.php:207
+#: functions/crossroad-1-column-magazine-widget.php:214
+#: functions/crossroad-2-columns-magazine-widget.php:106
+#: functions/crossroad-2-columns-magazine-widget.php:129
+#: functions/crossroad-2-columns-magazine-widget.php:134
+#: functions/crossroad-2-columns-magazine-widget.php:141
+#: functions/crossroad-2-columns-magazine-widget.php:198
+#: functions/crossroad-2-columns-magazine-widget.php:222
+#: functions/crossroad-2-columns-magazine-widget.php:227
+#: functions/crossroad-2-columns-magazine-widget.php:234
+#: functions/crossroad-recent-posts-widget.php:112
+#@ color-theme-framework
+msgid "Permalink to "
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:260
+#: functions/crossroad-recent-posts-widget.php:172
+#@ color-theme-framework
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:281
+#: functions/crossroad-blog-widget.php:420
+#: functions/crossroad-carousel-widget.php:214
+#: functions/crossroad-categories-widget.php:153
+#: functions/crossroad-fblikebox-widget.php:138
+#: functions/crossroad-fbsubscribe-widget.php:139
+#: functions/crossroad-flickr-widget.php:165
+#: functions/crossroad-news-ticker-widget.php:151
+#: functions/crossroad-popular-post-widget.php:205
+#: functions/crossroad-recent-posts-widget.php:192
+#: functions/crossroad-related-posts-widget.php:147
+#: functions/crossroad-search-widget.php:131
+#: functions/crossroad-slider-widget.php:250
+#: functions/crossroad-social-counter-widget.php:213
+#: functions/crossroad-social-widget.php:186
+#: functions/crossroad-text-widget.php:126
+#: functions/crossroad-twitter-widget.php:149
+#@ color-theme-framework
+msgid "Title:"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:286
+#: functions/crossroad-carousel-widget.php:219
+#: functions/crossroad-news-ticker-widget.php:166
+#: functions/crossroad-recent-posts-widget.php:197
+#: functions/crossroad-slider-widget.php:255
+#@ color-theme-framework
+msgid "Filter by Category:"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:297
+#: functions/crossroad-blog-widget.php:425
+#: functions/crossroad-carousel-widget.php:259
+#: functions/crossroad-popular-post-widget.php:211
+#: functions/crossroad-recent-posts-widget.php:208
+#: functions/crossroad-slider-widget.php:295
+#@ color-theme-framework
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:303
+#: functions/crossroad-2-columns-magazine-widget.php:328
+#: functions/crossroad-2-columns-magazine-widget.php:357
+#: functions/crossroad-popular-post-widget.php:217
+#: functions/crossroad-recent-posts-widget.php:219
+#@ color-theme-framework
+msgid "Show thumbnail image"
+msgstr ""
+
+#: functions/crossroad-1-column-magazine-widget.php:307
+#: functions/crossroad-2-columns-magazine-widget.php:361
+#: functions/crossroad-categories-widget.php:158
+#: functions/crossroad-fblikebox-widget.php:177
+#: functions/crossroad-fbsubscribe-widget.php:177
+#: functions/crossroad-flickr-widget.php:183
+#: functions/crossroad-popular-post-widget.php:230
+#: functions/crossroad-recent-posts-widget.php:228
+#: functions/crossroad-related-posts-widget.php:158
+#: functions/crossroad-search-widget.php:136
+#: functions/crossroad-social-counter-widget.php:232
+#: functions/crossroad-social-widget.php:281
+#: functions/crossroad-text-widget.php:135
+#: functions/crossroad-twitter-widget.php:167
+#@ color-theme-framework
+msgid "Border Color:"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:40
+#@ color-theme-framework
+msgid "2 Columns Vertical Magazine Widget (show recent posts)."
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:46
+#@ color-theme-framework
+msgid "CrossRoad: 2 Columns Magazine Widget"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:286
+#@ color-theme-framework
+msgid "First Column"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:306
+#@ color-theme-framework
+msgid "Title (1st column):"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:311
+#@ color-theme-framework
+msgid "Filter by Category (1st column):"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:322
+#@ color-theme-framework
+msgid "Number of posts (1st column):"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:332
+#@ color-theme-framework
+msgid "Second Column"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:335
+#@ color-theme-framework
+msgid "Title (2nd column):"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:340
+#@ color-theme-framework
+msgid "Filter by Category (2nd column):"
+msgstr ""
+
+#: functions/crossroad-2-columns-magazine-widget.php:351
+#@ color-theme-framework
+msgid "Number of posts (2nd column):"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:41
+#@ color-theme-framework
+msgid "Blog Widget"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Blog Widget"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:415
+#@ color-theme-framework
+msgid "Latest Posts"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:431
+#@ color-theme-framework
+msgid "Show date"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:436
+#@ color-theme-framework
+msgid "Show author"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:441
+#@ color-theme-framework
+msgid "Show share"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:445
+#@ color-theme-framework
+msgid "Type of Pagination:"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:453
+#@ color-theme-framework
+msgid "Type of Video Thumb:"
+msgstr ""
+
+#: functions/crossroad-blog-widget.php:462
+#@ color-theme-framework
+msgid "Select a Excerpt (automatically) or Content (More tag):"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:39
+#@ color-theme-framework
+msgid "Carousel widget"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:45
+#@ color-theme-framework
+msgid "CrossRoad: Carousel Widget"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:230
+#@ color-theme-framework
+msgid "Type of text to show:"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:240
+#: functions/crossroad-slider-widget.php:281
+#@ color-theme-framework
+msgid "Show post title"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:245
+#: functions/crossroad-slider-widget.php:286
+#@ color-theme-framework
+msgid "Show post badge"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:250
+#: functions/crossroad-recent-posts-widget.php:214
+#@ color-theme-framework
+msgid "Show related category posts"
+msgstr ""
+
+#: functions/crossroad-carousel-widget.php:255
+#@ color-theme-framework
+msgid "Animate carousel automatically"
+msgstr ""
+
+#: functions/crossroad-categories-widget.php:41
+#@ color-theme-framework
+msgid "CrossRoad: Categories Widget"
+msgstr ""
+
+#: functions/crossroad-categories-widget.php:131
+#@ color-theme-framework
+msgid "Categories"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:42
+#@ color-theme-framework
+msgid "FB Like Box Widget For Sidebar"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:48
+#@ color-theme-framework
+msgid "CrossRoad: FB Like Box"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:117
+#@ color-theme-framework
+msgid "FB Like Box"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:143
+#@ color-theme-framework
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:148
+#: functions/crossroad-fbsubscribe-widget.php:166
+#@ color-theme-framework
+msgid "Facebook Language:"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:155
+#: functions/crossroad-fbsubscribe-widget.php:173
+#@ color-theme-framework
+msgid "Show Faces"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:160
+#@ color-theme-framework
+msgid "Show Stream"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:165
+#@ color-theme-framework
+msgid "Show Header"
+msgstr ""
+
+#: functions/crossroad-fblikebox-widget.php:169
+#: functions/crossroad-fbsubscribe-widget.php:158
+#@ color-theme-framework
+msgid "Theme Color:"
+msgstr ""
+
+#: functions/crossroad-fbsubscribe-widget.php:42
+#@ color-theme-framework
+msgid "FB Subscribe Widget"
+msgstr ""
+
+#: functions/crossroad-fbsubscribe-widget.php:48
+#@ color-theme-framework
+msgid "CrossRoad: FB Subscribe"
+msgstr ""
+
+#: functions/crossroad-fbsubscribe-widget.php:119
+#@ color-theme-framework
+msgid "Facebook Subscribe"
+msgstr ""
+
+#: functions/crossroad-fbsubscribe-widget.php:144
+#@ color-theme-framework
+msgid "Profile URL:"
+msgstr ""
+
+#: functions/crossroad-fbsubscribe-widget.php:149
+#@ color-theme-framework
+msgid "Layout Style:"
+msgstr ""
+
+#: functions/crossroad-flickr-widget.php:41
+#@ color-theme-framework
+msgid "CrossRoad: Flickr Widget"
+msgstr ""
+
+#: functions/crossroad-flickr-widget.php:142
+#@ color-theme-framework
+msgid "Flickr"
+msgstr ""
+
+#: functions/crossroad-flickr-widget.php:172
+#@ color-theme-framework
+msgid "User ID:"
+msgstr ""
+
+#: functions/crossroad-flickr-widget.php:178
+#@ color-theme-framework
+msgid "The Number of Displayed Images:"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show latest (featured) posts titles in a scrolling newsticker"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:46
+#@ color-theme-framework
+msgid "CrossRoad: News Ticker"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:147
+#@ color-theme-framework
+msgid "Breaking News"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:156
+#: functions/crossroad-related-posts-widget.php:153
+#@ color-theme-framework
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:162
+#@ color-theme-framework
+msgid "Show Controls"
+msgstr ""
+
+#: functions/crossroad-news-ticker-widget.php:177
+#@ color-theme-framework
+msgid "Show:"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:46
+#@ color-theme-framework
+msgid "CrossRoad: Popular Posts"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:119
+#@ color-theme-framework
+msgid "0"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:119
+#@ color-theme-framework
+msgid "1"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:119
+#@ color-theme-framework
+msgid "%"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:119
+#@ color-theme-framework
+msgid "off"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:122
+#: includes/post_views.php:35
+#@ color-theme-framework
+msgid "Views"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:126
+#@ color-theme-framework
+msgid "Likes"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:138
+#@ color-theme-framework
+msgid "No comments"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:138
+#@ color-theme-framework
+msgid "1 comment"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:138
+#@ color-theme-framework
+msgid "% comments"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:138
+#@ color-theme-framework
+msgid "Comments are off"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:185
+#@ color-theme-framework
+msgid "Most Popular"
+msgstr ""
+
+#: functions/crossroad-popular-post-widget.php:221
+#@ color-theme-framework
+msgid "Order by:"
+msgstr ""
+
+#: functions/crossroad-recent-posts-widget.php:41
+#@ color-theme-framework
+msgid "Display Recent Posts by Categories"
+msgstr ""
+
+#: functions/crossroad-recent-posts-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Recent Posts"
+msgstr ""
+
+#: functions/crossroad-recent-posts-widget.php:224
+#@ color-theme-framework
+msgid "Show post category"
+msgstr ""
+
+#: functions/crossroad-related-posts-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show related posts"
+msgstr ""
+
+#: functions/crossroad-related-posts-widget.php:46
+#@ color-theme-framework
+msgid "CrossRoad: Related Posts"
+msgstr ""
+
+#: functions/crossroad-related-posts-widget.php:94
+#@ color-theme-framework
+msgid "No related posts"
+msgstr ""
+
+#: functions/crossroad-related-posts-widget.php:126
+#@ color-theme-framework
+msgid "Related Posts"
+msgstr ""
+
+#: functions/crossroad-search-widget.php:41
+#@ color-theme-framework
+msgid "Search Widget"
+msgstr ""
+
+#: functions/crossroad-search-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Search"
+msgstr ""
+
+#: functions/crossroad-search-widget.php:111
+#: searchform.php:11
+#: searchform.php:12
+#: searchform.php:13
+#@ color-theme-framework
+msgid "Search"
+msgstr ""
+
+#: functions/crossroad-slider-widget.php:41
+#@ color-theme-framework
+msgid "Slider widget"
+msgstr ""
+
+#: functions/crossroad-slider-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Slider Widget"
+msgstr ""
+
+#: functions/crossroad-slider-widget.php:267
+#@ color-theme-framework
+msgid "Show carousel"
+msgstr ""
+
+#: functions/crossroad-slider-widget.php:271
+#@ color-theme-framework
+msgid "Type of text to show (for carousel):"
+msgstr ""
+
+#: functions/crossroad-slider-widget.php:291
+#@ color-theme-framework
+msgid "Animate slider automatically"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:41
+#@ color-theme-framework
+msgid "Social Counter Widget"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Social Counter"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:192
+#@ color-theme-framework
+msgid "Social Counters"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:218
+#@ color-theme-framework
+msgid "Twitter ID:"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:223
+#@ color-theme-framework
+msgid "Facebook ID:"
+msgstr ""
+
+#: functions/crossroad-social-counter-widget.php:227
+#@ color-theme-framework
+msgid "RSS ID:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:41
+#@ color-theme-framework
+msgid "Social Icons Widget"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Social Icons"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:166
+#@ color-theme-framework
+msgid "Get Social"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:191
+#@ color-theme-framework
+msgid "URL for Behance Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:196
+#@ color-theme-framework
+msgid "URL for Delicious Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:201
+#@ color-theme-framework
+msgid "URL for Deviantart Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:206
+#@ color-theme-framework
+msgid "URL for Digg Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:211
+#@ color-theme-framework
+msgid "URL for Dribbble Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:216
+#@ color-theme-framework
+msgid "URL for Facebook Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:221
+#@ color-theme-framework
+msgid "URL for Flickr Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:226
+#@ color-theme-framework
+msgid "URL for Forrst Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:231
+#@ color-theme-framework
+msgid "URL for Google Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:236
+#@ color-theme-framework
+msgid "URL for LastFm Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:241
+#@ color-theme-framework
+msgid "URL for Linkedin Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:246
+#@ color-theme-framework
+msgid "URL for Pinterest Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:251
+#@ color-theme-framework
+msgid "URL for RSS Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:256
+#@ color-theme-framework
+msgid "URL for Skype Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:261
+#@ color-theme-framework
+msgid "URL for Tumblr Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:266
+#@ color-theme-framework
+msgid "URL for Twitter Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:271
+#@ color-theme-framework
+msgid "URL for Vimeo Service:"
+msgstr ""
+
+#: functions/crossroad-social-widget.php:276
+#@ color-theme-framework
+msgid "URL for Youtube Service:"
+msgstr ""
+
+#: functions/crossroad-text-widget.php:41
+#@ color-theme-framework
+msgid "Text Widget"
+msgstr ""
+
+#: functions/crossroad-text-widget.php:47
+#@ color-theme-framework
+msgid "CrossRoad: Text"
+msgstr ""
+
+#: functions/crossroad-text-widget.php:106
+#@ color-theme-framework
+msgid "Text"
+msgstr ""
+
+#: functions/crossroad-twitter-widget.php:35
+#@ color-theme-framework
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions/crossroad-twitter-widget.php:41
+#@ color-theme-framework
+msgid "CrossRoad: Twitter Widget"
+msgstr ""
+
+#: functions/crossroad-twitter-widget.php:126
+#@ color-theme-framework
+msgid "Latest Tweets"
+msgstr ""
+
+#: functions/crossroad-twitter-widget.php:156
+#@ color-theme-framework
+msgid "User Name:"
+msgstr ""
+
+#: functions/crossroad-twitter-widget.php:162
+#@ color-theme-framework
+msgid "The Number of Displayed Messages:"
+msgstr ""
+
+#: functions.php:47
+#@ color-theme-framework
+msgid "main navigation"
+msgstr ""
+
+#: functions.php:48
+#@ color-theme-framework
+msgid "additional navigation"
+msgstr ""
+
+#: functions.php:49
+#@ color-theme-framework
+msgid "bottom navigation"
+msgstr ""
+
+#: functions.php:613
+#@ color-theme-framework
+msgid "Error retrieving video information from the URL"
+msgstr ""
+
+#: functions.php:721
+#@ color-theme-framework
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:736
+#@ color-theme-framework
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/author_social.php:34
+#@ color-theme-framework
+msgid "Twitter Service:"
+msgstr ""
+
+#: includes/author_social.php:38
+#@ color-theme-framework
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: includes/author_social.php:42
+#@ color-theme-framework
+msgid "Facebook Service:"
+msgstr ""
+
+#: includes/author_social.php:46
+#@ color-theme-framework
+msgid "Please enter your Facebook username."
+msgstr ""
+
+#: includes/author_social.php:50
+#@ color-theme-framework
+msgid "Google Plus Service:"
+msgstr ""
+
+#: includes/author_social.php:54
+#@ color-theme-framework
+msgid "Please enter your Google Plus username."
+msgstr ""
+
+#: includes/author_social.php:58
+#@ color-theme-framework
+msgid "Flickr Service:"
+msgstr ""
+
+#: includes/author_social.php:62
+#@ color-theme-framework
+msgid "Please enter your Flickr username."
+msgstr ""
+
+#: includes/post_views.php:14
+#@ color-theme-framework
+msgid " views"
+msgstr ""
+
+#: post-like.php:85
+#: post-like.php:87
+#@ color-theme-framework
+msgid "I like this article"
+msgstr ""
+
+#: template-archives.php:26
+#@ color-theme-framework
+msgid "Read more..."
+msgstr ""
+
+#: template-archives.php:27
+#@ color-theme-framework
+msgid "Pages:"
+msgstr ""
+
+#: template-archives.php:32
+#@ color-theme-framework
+msgid "Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:42
+#@ color-theme-framework
+msgid "Archives by Month:"
+msgstr ""
+
+#: template-archives.php:49
+#@ color-theme-framework
+msgid "Archives by Subject:"
+msgstr ""
+
+#: template-contacts.php:48
+#@ color-theme-framework
+msgid "Message was sent to website administrator. Thank you!"
+msgstr ""
+
+#: template-contacts.php:74
+#@ color-theme-framework
+msgid "Your Name"
+msgstr ""
+
+#: template-contacts.php:77
+#@ color-theme-framework
+msgid "Your Email Address"
+msgstr ""
+
+#: template-contacts.php:80
+#@ color-theme-framework
+msgid "Your URL"
+msgstr ""
+
+#: template-contacts.php:83
+#@ color-theme-framework
+msgid "Subject"
+msgstr ""
+
+#: template-contacts.php:88
+#@ color-theme-framework
+msgid "Type your questions here..."
+msgstr ""
+
+#: template-contacts.php:89
+#@ color-theme-framework
+msgid "Send Message"
+msgstr ""
+

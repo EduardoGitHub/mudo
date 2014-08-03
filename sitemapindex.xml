@@ -1,0 +1,19 @@
+<?xml-stylesheet type="text/xsl" href="gss.xsl"?>
+<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
+	<sitemap>
+		<loc>http://www.mudominhacasa.com.br/sitemapcategories.xml</loc>
+		<lastmod>2014-04-19</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.mudominhacasa.com.br/sitemapmanufacturers.xml</loc>
+		<lastmod>2014-04-19</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.mudominhacasa.com.br/sitemapproducts.xml</loc>
+		<lastmod>2014-04-19</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.mudominhacasa.com.br/sitemapspecials.xml</loc>
+		<lastmod>2014-04-19</lastmod>
+	</sitemap>
+</sitemapindex>

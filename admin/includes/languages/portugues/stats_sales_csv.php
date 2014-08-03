@@ -1,0 +1,27 @@
+<?php
+/* 
+ ===========================================
+	Created by Dave Ferrise - Ferrise Design
+	www.ferrisedesign.com
+	For use with Oscommerce
+	Released under the GNU General Public License
+	Copyright 2005 Ferrise Design
+	
+	Tradução Portuguesa por Cloureiro
+	cloureiro@yahoo.com
+ ===========================================
+*/
+
+define('HEADING_TITLE', 'Gráfico de Vendas por Mês');
+define('TEXT_FACTOR', 'Seleccionar Factor do Gráfico');
+define('TEXT_PROJECTED', 'Projectado');
+define('TEXT_DOWNLOAD', 'Clicar para download do ficheiro');
+define('TEXT_NO_SALES', 'Não há vendas para o critério seleccionado');
+define('TEXT_BUTTON', 'Enviar');
+// a seguinte definição é usada para identifica o directório onde o ficheiro .CSV será guardado e o seu nome
+define('DL_LOC', '../monthsales.csv');
+// Aqui estão definidos os cabeçalhos do ficheiro .CSV
+define('CSV_MONTH', 'Mês');
+define('CSV_SALES', 'Vendas');
+define('CSV_WITH_TAX', 'Com Impostos');
+?>

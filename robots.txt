@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /download/
+Disallow: /chat/
+Disallow: /admin/
+Disallow: /boletos/
+Disallow: /synergy/
+Allow: /
+Disallow: /googlesitemap/
+
+Sitemap: http://www.mudominhacasa.com.br/sitemapindex.xml

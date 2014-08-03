@@ -1,0 +1,191 @@
+-----------------------------------------------------
+CrossRoad - Responsive Wordpress Blog Theme v 1.05 — Changelog
+-----------------------------------------------------
+
+
+
+Version 1.05 2013-06-22
+--------------------------
+- Improved: Pagination feature.
+- Fixed: Bug with Video proportion.
+- Added: A new tab in the "CrossRoad Options" for the Twitter.
+- Fixed: Issue with Twitter widget.
+- Fixed: Issue with Twitter followers counter.
+- Fixed: Minor bugs
+
+Changed files:
+- style.css
+- header.php
+- functions.php
+- content-search.php
+- content-single.php
+- \css\styles.php
+- \js\custom.js
+- \functions\crossroad-twitter-widget.php
+- \functions\crossroad-social-counter-widget.php
+- \functions\crossroad-slider-widget.php
+- \admin\functions\functions.options.php
+- \admin\assets\css\admin-style.css
+
+New files:
+- \functions\twitteroauth.php
+- \functions\TwitterAPIExchange.php
+- \admin\assets\images\icon-twitter.png
+
+
+
+
+
+Version 1.04 2012-12-20
+--------------------------
+- Improved: "Blog" widget
+- Improved: "Popular" and "Related" posts widget
+- Improved: "Carousel" widget
+- Fixed: Minor bugs
+
+Changed files:
+- functions.php
+- content-tag.php
+- content-search.php
+- content-category.php
+- content-archive.php
+- style.css
+- header.php
+- \admin\functions\functions.options.php
+- \functions\crossroad-blog-widget.php
+- \functions\crossroad-social-counter-widget.php.php
+- \functions\crossroad-recent-posts-widget.php
+- \functions\crossroad-related-posts-widget.php
+- \functions\crossroad-carousel-widget.php
+- \js\bootstrap.js
+- \includes\post_views.php
+- \css\styles.php
+- \css\ie-fix.css
+- \css\bootstrap-responsive.css (updated to v. 2.2.2)
+- \css\bootstrap.css (updated to v. 2.2.2)
+
+
+
+
+Version 1.03 2012-11-09
+--------------------------
+- Improved: "Blog" widget (added "Type of Pagination" option)
+- Improved: "Popular" and "Recent" posts widget (added "Show blank thumbnail" option)
+- Improved: "Carousel" widget (added "Show random posts" option)
+- Improved: "Text" widget (added more options)
+- Improved: AJAX Thumbnail Rebuild feature
+- Improved: Contact form
+- Changed: 404.php template page
+- Fixed: Minor bugs
+
+Changed files:
+- functions.php
+- content-tag.php
+- content-search.php
+- content-category.php
+- content-author.php
+- content-archive.php
+- style.css
+- header.php
+- contact.php
+- 404.php
+- \admin\functions\functions.options.php
+- \css\options.css
+- \css\ie-fix.css
+- \includes\ajax-thumbnail-rebuild.php
+- \functions\crossroad-1-column-magazine-widget.php
+- \functions\crossroad-2-columns-magazine-widget.php
+- \functions\crossroad-blog-widget.php
+- \functions\crossroad-popular-post-widget.php
+- \functions\crossroad-recent-posts-widget.php
+- \functions\crossroad-text-widget.php
+- \functions\crossroad-carousel-widget.php
+
+
+
+
+
+Version 1.02 2012-10-28
+--------------------------
+- Changed: Options for "Recent Posts" widget
+- Added: FitVids for fluid width video embeds
+- Added: Author.php template
+- Improved: "Blog" widget
+- Fixed: Minor bugs
+
+Changed files:
+- single.php
+- style.css
+- template-blog.php
+- archive.php
+- tag.php
+- category.php
+- content-tag.php
+- content-archive.php
+- content-search.php
+- content-single.php
+- content-category.php
+- functions.php
+- \admin\functions\functions.options.php
+- \includes\update-notifier.php
+- \functions\crossroad-blog-widget.php
+- \functions\crossroad-social-counter-widget.php
+- \functions\crossroad-recent-posts-widget.php
+- \js\custom.js
+
+New files:
+- \js\prettify.js
+- \js\jquery.fitvids.js
+- content-author.php
+- author.php
+
+
+
+
+
+
+Version 1.01 2012-10-25
+--------------------------
+- Added: Update notifier
+- Added: AJAX Thumbnail Rebuild feature
+- Added: Options for "Popular posts" widget - Show related category posts
+- Added: Youtube subscribers counter to "Social counters" widget
+- Added: Translation for Dutch language (big thx @tijnfaas)
+- Fixed: Minor bugs
+
+Changed files:
+- comments.php
+- header.php
+- content-category.php
+- content-search.php
+- content-archive.php
+- content-tag.php
+- content-single.php
+- functions.php
+- style.css
+- \functions\crossroad-popular-post-widget.php
+- \functions\crossroad-carousel-widget.php
+- \functions\crossroad-categories-widget.php
+- \functions\crossroad-blog-widget.php
+- \functions\crossroad-social-counter-widget.php
+- \admin\functions\functions.options.php
+
+New files:
+- \includes\update-notifier.php
+- \includes\ajax-thumbnail-rebuild.php
+- \img\icons\youtube-counter.png
+
+
+
+
+
+
+Version 1.0 2012-10-21
+--------------------------
+- Release
+
+
+
+
+ZERGE <zerge.com@gmail.com>
+http://color-theme.com/
